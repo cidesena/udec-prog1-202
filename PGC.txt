@@ -13,3 +13,6 @@ Probando git con ramas
 
 Actualizado desde Recovery 2
 recovery2
+
+
+Escribiendo desde la rama recoverynew
